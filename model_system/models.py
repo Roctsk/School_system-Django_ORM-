@@ -31,7 +31,7 @@ class Schedule(models.Model):
     DAY_OF_WEEK = [
         ("Mon","Понеділок"),
         ("Tue","Вівторок"),
-        ("Web","Середа"),
+        ("Wed","Середа"),
         ("Thu","Четверг"),
         ("Fri","Пятниця"),
     ]
